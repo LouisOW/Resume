@@ -1,4 +1,4 @@
-[![C++ Core Guidelines](cpp_core_guidelines_logo_text.svg)](https://brandslogos.com/wp-content/uploads/images/large/c-logo.png)
+[![C++ Core Guidelines](cpp_core_guidelines_logo_text.png)](https://brandslogos.com/wp-content/uploads/images/large/c-logo.png)
 
 >"Within C++ is a smaller, simpler, safer language struggling to get out."
 >-- <cite>Bjarne Stroustrup</cite>
